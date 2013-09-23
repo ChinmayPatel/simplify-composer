@@ -26,6 +26,7 @@
  * SUCH DAMAGE.
  */
 
+namespace Simplify;
 
 /**
  * Class Simplify_ResourceList represents a collection of domain objects returned by one of the list<Domain>() methods.

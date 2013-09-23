@@ -26,6 +26,7 @@
  * SUCH DAMAGE.
  */
 
+namespace Simplify;
 
 /**
  * Base class for all domain objects.

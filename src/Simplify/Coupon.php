@@ -26,6 +26,7 @@
  * SUCH DAMAGE.
  */
 
+namespace Simplify;
 
 class Simplify_Coupon extends Simplify_Object {
     /**

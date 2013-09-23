@@ -26,6 +26,7 @@
  * SUCH DAMAGE.
  */
 
+namespace Simplify;
 
 /**
  * Constant values.
